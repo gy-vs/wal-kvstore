@@ -1,2 +1,1 @@
-# wal-kvstore
-Embedded key-value storage engine
+wal-kvstore
